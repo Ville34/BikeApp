@@ -1,9 +1,9 @@
 import React from 'react';
 import { Routes, Route, NavLink, HashRouter } from "react-router-dom";
 import Home from "./Home";
-import Stations from "./Stations";
-import Journey from "./Journey";
-import SingleStations from "./SingleStations";
+import Stations from "./Stations/Stations";
+import Journey from "./Journeys/Journey";
+import SingleStations from "./Stations/SingleStations";
 
 
 function Main() {
