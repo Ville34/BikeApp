@@ -12,11 +12,11 @@ From the journey list you can check trips that have been completed using city bi
  
 From the stations list you can find the names of all bike stations in helsinki. 
 
-# 3. Stations
+## 3. Stations
 
 From stations you can find every stations individually with extra info. You can find the name, address, amount of departures and amount of returns. 
 
-# Instructions:
+## Instructions:
 
 The app works by simply clicking the link on "about" section of this github page. It is hosted with github pages. 
 
